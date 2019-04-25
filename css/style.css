@@ -171,7 +171,7 @@ body {
 }
 
 .back-to-top:hover {
-  background: #3cd6ed;
+  background: #000;
   color: #fff;
 }
 
@@ -1571,7 +1571,7 @@ div#preloader {
 }
 
 .single-blog .ready-btn:hover {
-  border: 1px solid #B59E77;
+  border: 1px solid #3EC1D5;
   color: #fff;
 }
 
